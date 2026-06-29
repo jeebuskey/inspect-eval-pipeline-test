@@ -1,0 +1,5 @@
+[project]
+name = "inspect-eval-pipeline-test"
+version = "0.1.0"
+description = "Pipeline verification evaluation for Inspect AI register"
+dependencies = ["inspect_ai"]
